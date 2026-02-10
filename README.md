@@ -1,13 +1,13 @@
-# temp_A_2
+# temp_A_3
 
 ## Vulnerability Context
 
 ### Required Information
 - **CVE ID**: 
-- **CWE**: SQL Injection
+- **CWE**: Path Traversal
 - **Language**: Java
 - **Framework Version**: 3.2
 - **Database**: MySQL
-- **Server**: Tomcat
-- **UI Framework**: Angular
+- **Server**: Nginx
+- **UI Framework**: React
 - **Template Type**: dynamic
